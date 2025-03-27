@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there ✌️
+
+Computer Science Enginner student at Universidad del Valle de Guatemala. 
+
+- 🔭 I’m currently working on a lot of different projects in many different languages. Feel free to take a look.
+- 🐧 I'm currently training to be an advanced Arch Linux user. 
+- ⚡ Fun facts:
+  1. I'm also a musician. 🎶
+  2. I like videogames. 🎮
+  3. I consider myself a "developer in development". 💻
 
 <!--
 **DANdelion-0908/DANdelion-0908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
